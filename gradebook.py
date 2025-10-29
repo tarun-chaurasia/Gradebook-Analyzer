@@ -57,9 +57,6 @@ def grade_distribution(grade_dict):
         distribution[grade] += 1
     return distribution
 
-
-# ---------- MAIN PROGRAM ----------
-
 d = manual_input()
 print("\n===================")
 print("STUDENT MARKS DATA")
